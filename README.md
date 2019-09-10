@@ -16,4 +16,9 @@ Repositório para as tarefas da disciplina de Visualização Científica
 [index10.html](basic/index10.html)<br>
 
 
+## Aula do dia 04/09/2019
+
+[notebook.html](d3_intro/notebook.html)<br>
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
