@@ -1,0 +1,60 @@
+ <!DOCTYPE html>
+<html>
+ <head>
+    <meta charset="UTF-8"/>
+    <title>Notebook Aula 05/09/19</title>
+ </head>
+ <body>
+	<p>Barras1</p>
+	<div id="barras1">	
+	</div>
+	<br>
+
+	<p>Barras2</p>
+	<div id="barras2">
+	</div>
+	<br>
+
+	<p>Barras3</p>
+	<div id="barras3">
+	</div>
+	<br>
+
+	<p>Barras4</p>
+	<div id="barras4">
+	</div>
+	<br>
+	
+	<div class="footer">
+        Juarez de Lima Meneses Filho - 409433
+    	</div>
+    
+ </body>
+</html>
+
+<script type="module">
+
+// Load the Observable runtime and inspector.
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+
+// Your notebook, compiled as an ES module.
+import notebook from "https://api.observablehq.com/@juarezmeneses/introducao-ao-d3-com-observable.js?v=3";
+
+// Load the notebook, observing its cells with a default Inspector
+// that simply renders the value of each cell into the provided DOM node.
+new Runtime().module(notebook, name => {
+  if (name === "barras1") {
+    return new Inspector(document.querySelector("#barras1"));
+  }
+  if (name === "barras2") {
+    return new Inspector(document.querySelector("#barras2"));
+  }
+  if (name === "barras3") {
+    return new Inspector(document.querySelector("#barras3"));
+  }
+  if (name === "barras4") {
+    return new Inspector(document.querySelector("#barras4"));
+  }
+});
+
+</script>
