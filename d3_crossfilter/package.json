@@ -1,0 +1,14 @@
+{
+  "name": "@juarezmeneses/d3-com-crossfilter-e-dc-js",
+  "main": "d/d494fe417a4fb5d1.js",
+  "version": "276.0.0",
+  "homepage": "https://observablehq.com/@juarezmeneses/d3-com-crossfilter-e-dc-js",
+  "author": {
+    "name": "Juarez L. Meneses Filho",
+    "url": "https://observablehq.com/@juarezmeneses"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
