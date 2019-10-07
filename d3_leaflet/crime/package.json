@@ -1,0 +1,14 @@
+{
+  "name": "@juarezmeneses/crimes-in-chicago-in-september-of-2019",
+  "main": "d/b57afc0bb11f20b5.js",
+  "version": "571.0.0",
+  "homepage": "https://observablehq.com/@juarezmeneses/crimes-in-chicago-in-september-of-2019",
+  "author": {
+    "name": "Juarez L. Meneses Filho",
+    "url": "https://observablehq.com/@juarezmeneses"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

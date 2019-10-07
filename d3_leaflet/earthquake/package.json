@@ -1,0 +1,14 @@
+{
+  "name": "@juarezmeneses/d3-com-crossfilter-dc-js-e-leaflet",
+  "main": "d/497223f4e1f039d0.js",
+  "version": "354.0.0",
+  "homepage": "https://observablehq.com/@juarezmeneses/d3-com-crossfilter-dc-js-e-leaflet",
+  "author": {
+    "name": "Juarez L. Meneses Filho",
+    "url": "https://observablehq.com/@juarezmeneses"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
