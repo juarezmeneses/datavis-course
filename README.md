@@ -2,6 +2,11 @@
 
 Repositório para as tarefas da disciplina de Visualização Científica
 
+## Aula do dia 30/09/2019
+
+[index.html](d3_leaflet/earthquake/index.html) (earthquakes)<br>
+[index.html](d3_leaflet/crime/index.html) (crimes)<br>
+
 ## Aula do dia 25/09/2019
 
 [index.html](d3_crossfilter_2/index.html)<br>
