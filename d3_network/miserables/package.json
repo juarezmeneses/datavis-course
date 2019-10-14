@@ -1,0 +1,14 @@
+{
+  "name": "@juarezmeneses/les-miserables",
+  "main": "d/11415a33c391294f.js",
+  "version": "158.0.0",
+  "homepage": "https://observablehq.com/@juarezmeneses/les-miserables",
+  "author": {
+    "name": "Juarez L. Meneses Filho",
+    "url": "https://observablehq.com/@juarezmeneses"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
