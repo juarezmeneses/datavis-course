@@ -2,6 +2,11 @@
 
 Repositório para as tarefas da disciplina de Visualização Científica
 
+## Aula do dia 09/10/2019
+
+[index.html](d3_network/songs/index.html) (songs)<br>
+[index.html](d3_network/miserables/index.html) (miserables)<br>
+
 ## Aula do dia 30/09/2019
 
 [index.html](d3_leaflet/earthquake/index.html) (earthquakes)<br>
