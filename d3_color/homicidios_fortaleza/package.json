@@ -1,0 +1,14 @@
+{
+  "name": "@juarezmeneses/homicidios-em-fortaleza-em-2012",
+  "main": "d/d4d5f1717f91efe3.js",
+  "version": "129.0.0",
+  "homepage": "https://observablehq.com/@juarezmeneses/homicidios-em-fortaleza-em-2012",
+  "author": {
+    "name": "Juarez L. Meneses Filho",
+    "url": "https://observablehq.com/@juarezmeneses"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
