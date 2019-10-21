@@ -2,6 +2,11 @@
 
 Repositório para as tarefas da disciplina de Visualização Científica
 
+## Aula do dia 16/10/2019
+
+[index.html](d3_color/desemprego_eua/index.html) (Desemprego nos EUA)<br>
+[index.html](d3_color/homicidios_fortaleza/index.html) (Homicídios em Fortaleza)<br>
+
 ## Aula do dia 09/10/2019
 
 [index.html](d3_network/songs/index.html) (songs)<br>
