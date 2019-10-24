@@ -1,0 +1,14 @@
+{
+  "name": "@juarezmeneses/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "main": "d/cb5c3fad8b84c601.js",
+  "version": "127.0.0",
+  "homepage": "https://observablehq.com/@juarezmeneses/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2",
+  "author": {
+    "name": "Juarez L. Meneses Filho",
+    "url": "https://observablehq.com/@juarezmeneses"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

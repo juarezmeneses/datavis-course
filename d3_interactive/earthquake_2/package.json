@@ -1,0 +1,14 @@
+{
+  "name": "@juarezmeneses/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "main": "d/7b4cb73cda020a10.js",
+  "version": "80.0.0",
+  "homepage": "https://observablehq.com/@juarezmeneses/d3-com-crossfilter-dc-js-e-leaflet-parte-2",
+  "author": {
+    "name": "Juarez L. Meneses Filho",
+    "url": "https://observablehq.com/@juarezmeneses"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
