@@ -2,6 +2,11 @@
 
 Repositório para as tarefas da disciplina de Visualização Científica
 
+## Aula do dia 23/10/2019
+
+[index.html](d3_interactive/desemprego_eua_2/index.html) (Desemprego nos EUA - Parte 2)<br>
+[index.html](d3_interactive/earthquake_2/index.html) (Earthquakes - Parte 2)<br>
+
 ## Aula do dia 16/10/2019
 
 [index.html](d3_color/desemprego_eua/index.html) (Desemprego nos EUA)<br>
